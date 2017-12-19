@@ -1,8 +1,8 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+I want to make nice chatting room. So this file I will filled out a bit later :)
 
+=begin
 Things you may want to cover:
 
 * Ruby version
@@ -22,3 +22,4 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=end
